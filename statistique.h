@@ -1,0 +1,8 @@
+//
+// Created by Lucas on 30/10/2026.
+//
+
+#ifndef SHOPFLOW_STATISTIQUE_H
+#define SHOPFLOW_STATISTIQUE_H
+
+#endif //SHOPFLOW_STATISTIQUE_H
